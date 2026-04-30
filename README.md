@@ -19,7 +19,7 @@
 
 ## 🧠 About Me
 
-- 💼 Software Developer at **Redesign** — a tech consultancy focused on AI & Cloud
+- 💼 Software Developer at **Redesign** — a tech consultancy focused on **RPA, AI & Cloud solutions**
 - 🤖 Building AI solutions with **AWS**, **IBM Watsonx**, **LangChain** & **OpenAI**
 - ☁️ Experienced with serverless architectures, chatbots, AI agents & RAG systems
 - 🎮 Built a full AI-powered quiz game (React + Node.js + TTS) showcased at a major tech expo in São Paulo
@@ -87,10 +87,16 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yagoluisr&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yagoluisr&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150"/>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yagoluisr&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="150"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yagoluisr&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
